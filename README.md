@@ -18,22 +18,31 @@ For this project in Python, we are asked to help Seth and Tom submit election au
 ### Election-Audit Results:
 
 - How many votes were cast in this congressional election?
+
 the amount of votes in the election totaled to 369,711
 
 - Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
 Jefferson county: 10.5% with a total vote count of 38,855
+
 Denver county: 82.8% with a total vote count of 306,055
+
 Arapahoe county: 6.7% with a total vote count of 24,801
 
 - Which county had the largest number of votes?
+
 Denver came out on top in the election with 306,055 votes, 82.8% of the total voter count.
 
 - Breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 Charles Casper Stockham: 23% of total votes with a count of 85,213
+
 Diana DeGette: 73.8% of total votes with a count of 272,892
+
 Raymon Anthony Doane: 3.1% of total votes with a count of 11,606
 
 - Which canddiate won the election, what was their vote count, and what was their percentage of the total votes?
+
 Diana DeGette won the election with 73.8% total votes with a count of 272,892
 
 ### Election-Audit Summary:
